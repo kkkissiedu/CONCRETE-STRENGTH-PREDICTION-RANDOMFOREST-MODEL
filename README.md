@@ -6,6 +6,24 @@ This project applies **machine learning** to a core civil engineering challenge:
 
 ---
 
+## 📊 Dataset
+
+The analysis is performed on the **Concrete Compressive Strength Data Set**. This dataset contains 8 quantitative input variables representing the components of concrete and 1 quantitative output variable, which is the concrete compressive strength.
+
+### **Features (Input Variables):**
+* Cement
+* Blast Furnace Slag
+* Fly Ash
+* Water
+* Superplasticizer
+* Coarse Aggregate
+* Fine Aggregate
+* Age (in days)
+
+### **Target (Output Variable):**
+* Concrete compressive strength (in MPa)
+
+---
 ## 🎯 Goal & Motivation
 
 Traditional mix design methods are empirical and slow. This project provides a **data-driven alternative** to:
