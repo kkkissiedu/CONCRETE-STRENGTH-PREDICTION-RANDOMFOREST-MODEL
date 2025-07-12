@@ -29,13 +29,13 @@ Traditional mix design methods are empirical and slow. This project provides a *
 
 ### 🔹 Predicted vs Actual Strength
 
-> 📉 *Replace this section with a scatter plot comparing predicted and actual compressive strength values.*
+![output](output.png)
 
 ---
 
 ### 🔹 Feature Importance
 
-> 📊 *Insert a bar chart showing which concrete components most influenced the model’s predictions.*
+![importances](feature importances.png)
 
 ---
 
