@@ -35,7 +35,7 @@ Traditional mix design methods are empirical and slow. This project provides a *
 
 ### 🔹 Feature Importance
 
-![importances](feature importances.png)
+![importances](feature_importances.png)
 
 ---
 
